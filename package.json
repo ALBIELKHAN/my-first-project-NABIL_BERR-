@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ALBIELKHAN/my-first-project-NABIL_BERR-#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "mongodb": "^6.15.0"
   }
 }
